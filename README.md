@@ -1,7 +1,4 @@
-## 学习Hyperledger Fabric 实战联盟链
-
-### 课程材料
-所有的材料都放在imocc目录
+## 学习Hyperledger Fabric
 
 #### application
 实战项目
