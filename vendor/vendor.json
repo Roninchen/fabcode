@@ -1746,7 +1746,6 @@
 		},
 		{
 			"checksumSHA1": "RcrB7tgYS/GMW4QrwVdMOTNqIU8=",
-			"origin": "github.com/hyperledger/fabric/vendor/golang.org/x/net/idna",
 			"path": "golang.org/x/net/idna",
 			"revision": "891ebc4b82d6e74f468c533b06f983c7be918a96",
 			"revisionTime": "2018-12-13T11:41:52Z"
@@ -1876,6 +1875,12 @@
 			"path": "golang.org/x/tools/cover",
 			"revision": "9f2124fb70150373b1fa070cb5547a7d8d6f2930",
 			"revisionTime": "2015-08-13T19:32:40+02:00"
+		},
+		{
+			"checksumSHA1": "8e9Mbed3T1cRJClcz5WZLQ081fU=",
+			"path": "google.golang.org/genproto/googleapis/rpc/errdetails",
+			"revision": "bd91e49a0898e27abb88c339b432fa53d7497ac0",
+			"revisionTime": "2018-12-02T18:38:23Z"
 		},
 		{
 			"checksumSHA1": "oUD15OBRSXt0t4P0s6HMjH/+iQo=",
